@@ -1,0 +1,7 @@
+PS HELP.exe
+*.bak
+_KOPIA_*/
+Thumbs.db
+desktop.ini
+.claude/
+PS_HELP.zip
